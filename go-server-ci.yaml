@@ -15,7 +15,7 @@ spec:
         app: go-server-ci
     spec:
       containers:
-      - image: m20125/go-server-ci
+      - image: dockerhubのユーザ名/go-server-ci
         name: go-server-ci
 ---
 apiVersion: v1
